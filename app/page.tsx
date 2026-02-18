@@ -120,7 +120,7 @@ export default function Home() {
               <div className="lg:col-span-1">
                  <h2 className="text-4xl md:text-6xl font-bold tracking-tighter mb-8 text-red-600">AERO<br/>DOMINANCE</h2>
                  <p className="text-xl text-white/60 leading-relaxed">
-                    The RB20 represents a radical evolution of the ground-effect concept. Notable for its aggressive sidepod inlets and the 'cannon' style engine cover cooling solution, optimizing airflow to the rear beam wing.
+                    The RB20 represents a radical evolution of the ground-effect concept. Notable for its aggressive sidepod inlets and the &apos;cannon&apos; style engine cover cooling solution, optimizing airflow to the rear beam wing.
                  </p>
               </div>
               <div className="lg:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-8">
